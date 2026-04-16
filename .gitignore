@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# Archivos compilados de Java
+*.class
+
+# Log
+*.log
+
+# Entornos y temporales
+.mtj.tmp/
+hs_err_pid*
+
+# Empaquetados
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Visual Studio Code / IDEs
+.vscode/
+.idea/
+*.iml
